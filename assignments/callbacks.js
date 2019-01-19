@@ -65,7 +65,7 @@ function multiplyNums(x, y, cb) {
 function calculate(x, y, cb) {
   return cb(x, y);
 }
-console(multiplyNums(5,10))
+console.log(multiplyNums(5,10))
 
 
 function contains(item, list, cb) {

@@ -3,8 +3,8 @@
 
 
 // ==== Challenge 2: Create a counter function ====
-let rock = 'Rocks are Cool';
-function pinkDiamond() {
+let rock = "Rocks are Cool";
+  function pinkDiamond() {
   return rock;
 }
 
